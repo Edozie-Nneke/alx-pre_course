@@ -1,3 +1,5 @@
-# MY FIRST GIT PROJECT ON ALX
+# alx-pre_course
+I'm now a ALX Student, this is my first repository as a full-stack engineer
 
-This project is my first project with ALX
+# Edit from GUI
+This edit was done from github's web Interface 
